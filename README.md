@@ -8,7 +8,7 @@
 
 ## Pre-requisites  
 
-* Knowledge of healthcare products and thier functining along with the concepts of Embedded systems, Hardware Desigining, Microprocessors/Microcontrollers, Prior Basics of Electronics, Firmware/RTOS development
+* Knowledge of healthcare products and thier functioning along with the concepts of Embedded systems, Hardware Desigining, Microprocessors/Microcontrollers, Prior Basics of Electronics, Firmware/RTOS development
 
 ## Principles and Technologies Involved 
 
