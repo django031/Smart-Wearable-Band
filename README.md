@@ -20,11 +20,11 @@
 
 ## Methods Invloved - 
 
-* Two methods were involved to achieve the desired results. They are described below - 
+* Two methods were involved to achieve the desired results. They are - 
 
 * Break Out Sensor Unit 
 
-* Hardware Setup for the break out sensor - 
+* Hardware Setup for the break out sensor 
 
 ## Firmware Development Environment Setup - 
 
