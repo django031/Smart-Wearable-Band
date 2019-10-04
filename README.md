@@ -118,7 +118,7 @@
  
  * In PPG-based heart rate measurement, heart rate is determined by the number of peaks detected in the PPG signal per minute. Thus each peak in the signal represents one heart beat. The application calculates the heart rate for every 1000 samples. Since the sampling rate of the sensor is set at 100 samples per second, the application calculates the heart rate every 10 seconds. 
  
-  private void calculateHR(final ArrayList<Integer> samples){   
+*  private void calculateHR(final ArrayList<Integer> samples){   
     for(int i = 0; i < samples.size(); i++){     
       for(int i = 0; i < samples.size(); i++) {        
       double cur = samples.get(i);           
